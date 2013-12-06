@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MomentX", "MomentX\MomentX.csproj", "{B1E82D84-4CEF-491E-B1E4-D9D5471F48B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MomentX.Facts", "MomentX.Facts\MomentX.Facts.csproj", "{F690D3DE-699E-40F4-96E0-B4122EEB8019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E82D84-4CEF-491E-B1E4-D9D5471F48B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E82D84-4CEF-491E-B1E4-D9D5471F48B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E82D84-4CEF-491E-B1E4-D9D5471F48B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E82D84-4CEF-491E-B1E4-D9D5471F48B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F690D3DE-699E-40F4-96E0-B4122EEB8019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F690D3DE-699E-40F4-96E0-B4122EEB8019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F690D3DE-699E-40F4-96E0-B4122EEB8019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F690D3DE-699E-40F4-96E0-B4122EEB8019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
