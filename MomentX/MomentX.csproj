@@ -42,6 +42,7 @@
     <Compile Include="AddExtensions.cs" />
     <Compile Include="FromNowExtensions.cs" />
     <Compile Include="MethodTimer.cs" />
+    <Compile Include="PrettyTime.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
